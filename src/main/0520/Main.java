@@ -34,7 +34,7 @@ class PlayerATeam extends Player
         int ball = 0;
         int out = 0;
 
-        // TODO
+
 
         if(strike == 4) {
             System.out.println("Congratulation!");
