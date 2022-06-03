@@ -2,6 +2,7 @@ import java.util.LinkedList;
 import java.util.List;
 import java.util.Scanner;
 
+
 abstract class Player{
     private String name;
     private String initNumber;
